@@ -9,7 +9,7 @@ import android.view.View;
 import android.widget.EditText;
 import android.widget.Toast;
 
- 
+
 public class RegisterActivity extends ActionBarActivity {
     private static final String mypref = "Mypref";
     SharedPreferences sp;

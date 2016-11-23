@@ -23,6 +23,7 @@
         <activity
             android:name=".RegisterActivity"
             android:label="Register" />
+        <activity android:name=".viewPagerAdapter"></activity>
     </application>
 
 </manifest>

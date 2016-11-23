@@ -104,7 +104,7 @@ public class DataViewer extends android.support.v4.app.Fragment {
                     image.setImageResource(R.drawable.cool);
                     break;
                 default:
-                    image.setImageResource(R.drawable.ic_launcher);
+                    image.setImageResource(R.drawable.wibu);
                     break;
             }
         }

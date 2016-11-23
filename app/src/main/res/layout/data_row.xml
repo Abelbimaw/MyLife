@@ -7,7 +7,6 @@
               android:paddingBottom="15dp"
               android:paddingLeft="10dp"
               android:paddingTop="15dp">
-    >
 
 
     <ImageView

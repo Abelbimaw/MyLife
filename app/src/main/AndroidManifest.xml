@@ -19,10 +19,10 @@
         </activity>
         <activity
             android:name=".LoginActivity"
-            android:label="Login"></activity>
+            android:label="Login" />
         <activity
             android:name=".RegisterActivity"
-            android:label="Register"></activity>
+            android:label="Register" />
     </application>
 
 </manifest>

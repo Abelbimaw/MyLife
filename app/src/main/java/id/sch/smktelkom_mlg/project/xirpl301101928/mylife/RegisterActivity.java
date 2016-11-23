@@ -9,6 +9,12 @@ import android.view.View;
 import android.widget.EditText;
 import android.widget.Toast;
 
+<<<<<<< HEAD
+=======
+/**
+ * Created by Mufidatun Nabilah on 11/23/2016.
+ */
+>>>>>>> origin/master
 
 public class RegisterActivity extends ActionBarActivity {
     private static final String mypref = "Mypref";
@@ -47,3 +53,7 @@ public class RegisterActivity extends ActionBarActivity {
 
 
 }
+<<<<<<< HEAD
+=======
+
+>>>>>>> origin/master

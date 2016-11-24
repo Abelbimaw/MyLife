@@ -27,7 +27,7 @@ public class MainActivity extends ActionBarActivity implements Communicator {
         vp.setOnPageChangeListener(new ViewPager.OnPageChangeListener() {
             @Override
             public void onPageScrolled(int i, float v, int i2) {
-            }
+            } 
 
             @Override
             public void onPageSelected(int i) {

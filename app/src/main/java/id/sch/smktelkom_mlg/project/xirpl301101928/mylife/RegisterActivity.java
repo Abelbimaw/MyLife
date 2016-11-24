@@ -9,16 +9,13 @@ import android.view.View;
 import android.widget.EditText;
 import android.widget.Toast;
 
-
 public class RegisterActivity extends ActionBarActivity {
     private static final String mypref = "Mypref";
     SharedPreferences sp;
     EditText edtn;
     EditText edtp;
-
     @Override
     protected void onCreate(Bundle savedInstanceState) {
-        // TODO Auto-generated method stub
         super.onCreate(savedInstanceState);
         setContentView(R.layout.reg_activity);
         edtn = (EditText) findViewById(R.id.editText1);
@@ -44,6 +41,4 @@ public class RegisterActivity extends ActionBarActivity {
             finish();
         }
     }
-
-
 }

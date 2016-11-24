@@ -3,18 +3,10 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
+    android:background="@drawable/sky"
     android:orientation="vertical"
     tools:context="id.sch.smktelkom_mlg.project.xirpl301101928.mylife.LoginActivity">
 
-
-    <ImageView
-        android:id="@+id/imageView1"
-        android:layout_width="wrap_content"
-        android:layout_height="124dp"
-        android:layout_alignParentLeft="true"
-        android:layout_alignParentStart="true"
-        android:layout_alignParentTop="true"
-        android:src="@drawable/happy" />
 
     <TextView
         android:id="@+id/textView1"
@@ -23,18 +15,9 @@
         android:layout_below="@+id/imageView1"
         android:layout_centerHorizontal="true"
         android:layout_marginTop="40dp"
+        android:fontFamily="sans-serif"
         android:text="PASSWORD"
         android:textAppearance="?android:attr/textAppearanceLarge" />
-
-    <Button
-        android:id="@+id/button1"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:layout_below="@+id/editText2"
-        android:layout_centerHorizontal="true"
-        android:layout_marginTop="18dp"
-        android:onClick="login"
-        android:text="login" />
 
     <EditText
         android:id="@+id/editl"
@@ -44,7 +27,28 @@
         android:layout_centerHorizontal="true"
         android:layout_marginTop="44dp"
         android:ems="10"
-        android:hint="Enter the Password"
+        android:fontFamily="sans-serif"
+        android:hint="Masukkan Password"
         android:inputType="textPersonName" />
+
+    <Button
+        android:id="@+id/button1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/editl"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="27dp"
+        android:onClick="login"
+        android:text="login" />
+
+    <ImageView
+        android:id="@+id/imageView1"
+        android:layout_width="wrap_content"
+        android:layout_height="124dp"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginTop="24dp"
+        android:src="@drawable/happy" />
 
 </RelativeLayout>

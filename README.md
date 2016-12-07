@@ -16,7 +16,7 @@ Ini merupakan aplikasi yang bersifat pribadi. Memiliki fungsi seperti buku diary
 #Link
 https://drive.google.com/drive/folders/0B9T-XZe9lpXyV0R6aUlIUjVlMzA
 
-#Identitas
+#Identitas 1
 Nama          : Abel Bima Wiratama
 
 Kelas         : XIPRL3
@@ -26,5 +26,33 @@ No Urut       : 01
 NIS           : 4646
 
 User Github   : Abelbimaw
+
+Nama Sekolah  : SMK Telkom Malang
+
+
+#Identitas 2
+Nama          : Evan Mahardhika Javier
+
+Kelas         : XIPRL3
+
+No Urut       : 10
+
+NIS           : 4706
+
+User Github   : YukaRinko
+
+Nama Sekolah  : SMK Telkom Malang
+
+
+#Identitas 3
+Nama          : Mufidatun Nabilah
+
+Kelas         : XIPRL3
+
+No Urut       : 19
+
+NIS           : 4761
+
+User Github   : MufidatunNabilah
 
 Nama Sekolah  : SMK Telkom Malang

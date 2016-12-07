@@ -5,10 +5,10 @@ import android.support.v4.app.FragmentPagerAdapter;
 
 import java.util.ArrayList;
 
-public class viewPagerAdapter extends FragmentPagerAdapter {
-    ArrayList<android.support.v4.app.Fragment> arf;
+class viewPagerAdapter extends FragmentPagerAdapter {
+    private ArrayList<android.support.v4.app.Fragment> arf;
 
-    public viewPagerAdapter(android.support.v4.app.FragmentManager fm) {
+    viewPagerAdapter(android.support.v4.app.FragmentManager fm) {
         super(fm);
         // TODO Auto-generated constructor stub
         arf = new ArrayList<>();

@@ -21,7 +21,6 @@ public class AddViewer extends android.support.v4.app.Fragment {
     Spinner spin;
     DataAdapter dateadapt;
     Communicator comm;
-
     public AddViewer() {
         // TODO Auto-generated constructor stub
     }

@@ -12,9 +12,9 @@ import java.util.Date;
  * Created by Abel Bima Wiratama on 23/11/2016.
  */
 
+
 public class DataAdapter {
     DataHelper datahelper;
-
     public DataAdapter(Context context) {
         // TODO Auto-generated constructor stub
         datahelper = new DataHelper(context);
@@ -75,3 +75,4 @@ public class DataAdapter {
     }
 
 }
+

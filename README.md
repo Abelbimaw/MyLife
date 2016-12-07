@@ -18,8 +18,13 @@ https://drive.google.com/drive/folders/0B9T-XZe9lpXyV0R6aUlIUjVlMzA
 
 #Identitas
 Nama          : Abel Bima Wiratama
+
 Kelas         : XIPRL3
+
 No Urut       : 01
+
 NIS           : 4646
+
 User Github   : Abelbimaw
+
 Nama Sekolah  : SMK Telkom Malang

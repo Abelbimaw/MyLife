@@ -1,5 +1,5 @@
 # MyLife
-
+Ini merupakan aplikasi yang bersifat pribadi. Memiliki fungsi seperti buku diary pada umumnya, tetapi dengan kemajuan teknologi yang ada kita membuat diary yang bersifat elektronik dan dilengkapi oleh security password yang menjadikan aplikasi ini aman. Pengguna juga bisa menambahkan emoticon yang menggambarkan perasaan pengguna.
 
 #ScreenShot
 ![Image SS1](https://github.com/Abelbimaw/MyLife/blob/master/Screenshot_20161203-184819.jpg)

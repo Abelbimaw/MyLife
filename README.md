@@ -12,6 +12,7 @@ Ini merupakan aplikasi yang bersifat pribadi. Memiliki fungsi seperti buku diary
 ![Image SS8](https://github.com/Abelbimaw/MyLife/blob/master/Screenshot_20161203-184917.jpg)
 
 #Video
+https://youtu.be/OhzJj0VKivE
 
 #Link
 https://drive.google.com/drive/folders/0B9T-XZe9lpXyV0R6aUlIUjVlMzA
@@ -56,3 +57,18 @@ NIS           : 4761
 User Github   : MufidatunNabilah
 
 Nama Sekolah  : SMK Telkom Malang
+
+
+#Identitas 4
+Nama          : Reinhaque Sabilla Hidayat
+
+Kelas         : XIPRL3
+
+No Urut       : 28
+
+NIS           : 4809
+
+User Github   : jokerx003
+
+Nama Sekolah  : SMK Telkom Malang
+
